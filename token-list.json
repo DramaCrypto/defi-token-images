@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "logoURI": "https://raw.githubusercontent.com/DramaCrypto/official-tokens/main/default.jpg",
   "keywords": ["blockchain", "default", "token"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "name": "Aztec Crypto Currency",
       "symbol": "RGV",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/1585/thumb/bitclave.png?1547035768"
+      "logoURI": "https://azteccrypto.xyz/wp-content/uploads/2023/05/cropped-logo.gif"
     }
   ]
 }
